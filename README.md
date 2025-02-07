@@ -14,14 +14,17 @@ A Flutter-based **Scientific Calculator** application designed for both basic an
 ## Installation
 Follow these steps to set up and run the application:
 
-1. **Clone the repository:**
-2. **Navigate to the project directory**:
-3. **Install Flutter dependencies**:
-4. **Run the application**:
+1. **Clone the repository**
+2. **Navigate to the project directory**
+3. **Install Flutter dependencies**
+4. **Run the application**
    ```bash
    git clone https://github.com/akshat2474/calculator_app.git
+   
    cd calculator_app
+   
    flutter pub get
+   
    flutter run
 
 Developed by Akshat Singh.
