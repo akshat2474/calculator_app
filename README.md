@@ -26,9 +26,10 @@ Follow these steps to set up and run the application:
 4.**Run the application**:
    flutter run
 
+Developed by Akshat Singh.
 
 
 
-Developed by Akshat Singh. 
+
 <img width="433" alt="SCR-20250207-lgky" src="https://github.com/user-attachments/assets/4f1aa214-c19b-45c1-93d9-54fbf13e0143" />
 <img width="807" alt="SCR-20250207-lgmr" src="https://github.com/user-attachments/assets/8ec92c34-6ff6-4c24-b3f5-5fbe6c4189e8" />
