@@ -17,7 +17,7 @@ Follow these steps to set up and run the application:
 1. **Clone the repository:**
 2. **Navigate to the project directory**:
 3. **Install Flutter dependencies**:
-4. 4.**Run the application**:
+4. **Run the application**:
    ```bash
    git clone https://github.com/akshat2474/calculator_app.git
    cd calculator_app
