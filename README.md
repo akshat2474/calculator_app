@@ -27,7 +27,7 @@ Follow these steps to set up and run the application:
    
    flutter run
 
-Developed by Akshat Singh.
+
 
 
 
