@@ -1,16 +1,30 @@
-# calculator_app
+# Scientific Calculator App
 
-A new Flutter project.
+A Flutter-based **Scientific Calculator** application designed for both basic and advanced mathematical computations.
 
-## Getting Started
+## Features
+- Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division.
+- Advanced operations:
+  - Trigonometric functions: `sin`, `cos`, `tan`, etc.
+  - Logarithmic and exponential calculations.
+  - Square root and power functions.
+- Interactive and responsive user interface.
+- Works on both iOS and Android platforms.
 
-This project is a starting point for a Flutter application.
+## Installation
+Follow these steps to set up and run the application:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository:**
+   git clone https://github.com/akshat2474/calculator_app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.**Navigate to the project directory**:
+   cd calculator_app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.**Install Flutter dependencies**:
+   flutter pub get
+
+4.**Run the application**:
+   flutter run
+
+
+Developed by Akshat Singh. 
